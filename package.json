@@ -1,0 +1,13 @@
+{
+  "name": "chatten-met-wesley",
+  "version": "0.0.0",
+  "description": "Met wesley over NodeJS & Sockets praten",
+  "main": "index.js",
+  "author": "Armando Meeuwenoord",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "3.4.8",
+    "socket.io": "~1.4.5"
+  }
+}
